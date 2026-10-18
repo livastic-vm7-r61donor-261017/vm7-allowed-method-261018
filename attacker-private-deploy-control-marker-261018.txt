@@ -1,0 +1,2 @@
+VM7 allowed merge method private deployment same-consumer control marker.
+This file is inert data and is never executed by the trusted workflow.
