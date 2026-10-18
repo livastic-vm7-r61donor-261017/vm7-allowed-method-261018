@@ -1,0 +1,2 @@
+VM7 allowed merge method private deployment gate inert marker.
+This file is data only and is never executed by the trusted workflow.
